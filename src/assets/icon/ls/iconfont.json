@@ -1,0 +1,100 @@
+{
+  "id": "2936433",
+  "name": "Logsystem_icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-ls-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7983629",
+      "name": "全部",
+      "font_class": "xingzhuang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "643732",
+      "name": "警告",
+      "font_class": "2",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "722441",
+      "name": "错误",
+      "font_class": "cuowu1",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "6560958",
+      "name": "警告",
+      "font_class": "jinggao1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6560978",
+      "name": "全部",
+      "font_class": "quanbu1",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3868257",
+      "name": "调试",
+      "font_class": "tiaoshi1",
+      "unicode": "eb61",
+      "unicode_decimal": 60257
+    },
+    {
+      "icon_id": "693655",
+      "name": "操作日志",
+      "font_class": "caozuorizhi",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "19737396",
+      "name": "运维日志",
+      "font_class": "yunweirizhi",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "1365627",
+      "name": "严重告警",
+      "font_class": "yanzhonggaojing",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "6999239",
+      "name": "错误",
+      "font_class": "cuowu",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "9132001",
+      "name": "分类",
+      "font_class": "quanbu",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "9826664",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "24732430",
+      "name": "调试",
+      "font_class": "tiaoshi",
+      "unicode": "eca6",
+      "unicode_decimal": 60582
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2936433 */
+  src: url('iconfont.woff2?t=1636856411805') format('woff2'),
+       url('iconfont.woff?t=1636856411805') format('woff'),
+       url('iconfont.ttf?t=1636856411805') format('truetype');
+}
+
+[class^="el-icon-ls"], [class*=" el-icon-ls"] {
+  font-family:"iconfont" !important;
+  /* 以下内容参照第三方图标库本身的规则 */
+  font-size: 18px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-ls-xingzhuang:before {
+  content: "\e610";
+}
+
+.el-icon-ls-2:before {
+  content: "\e601";
+}
+
+.el-icon-ls-cuowu1:before {
+  content: "\e60a";
+}
+
+.el-icon-ls-jinggao1:before {
+  content: "\e606";
+}
+
+.el-icon-ls-quanbu1:before {
+  content: "\e60f";
+}
+
+.el-icon-ls-tiaoshi1:before {
+  content: "\eb61";
+}
+
+.el-icon-ls-caozuorizhi:before {
+  content: "\e668";
+}
+
+.el-icon-ls-yunweirizhi:before {
+  content: "\e625";
+}
+
+.el-icon-ls-yanzhonggaojing:before {
+  content: "\e60b";
+}
+
+.el-icon-ls-cuowu:before {
+  content: "\e630";
+}
+
+.el-icon-ls-quanbu:before {
+  content: "\e624";
+}
+
+.el-icon-ls-jinggao:before {
+  content: "\e616";
+}
+
+.el-icon-ls-tiaoshi:before {
+  content: "\eca6";
+}
+

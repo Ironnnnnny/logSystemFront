@@ -24,27 +24,27 @@
       ></i>
     </div>
     <el-menu-item index="0" :route="{ name: 'Home', query: { fileType: 0 } }">
-      <i class="el-icon-menu"></i>
+      <i class="el-icon-ls-xingzhuang"></i>
       <span slot="title">ALL</span>
     </el-menu-item>
     <el-menu-item index="1" :route="{ name: 'Home', query: { fileType: 1 } }">
-      <i class="el-icon-remove"></i>
+      <i class="el-icon-ls-tiaoshi1"></i>
       <span slot="title">DEBUG</span>
     </el-menu-item>
     <el-menu-item index="2" :route="{ name: 'Home', query: { fileType: 2 } }">
-      <i class="el-icon-success"></i>
+      <i class="el-icon-ls-caozuorizhi"></i>
       <span slot="title">INFO</span>
     </el-menu-item>
     <el-menu-item index="3" :route="{ name: 'Home', query: { fileType: 3 } }">
-      <i class="el-icon-warning"></i>
+      <i class="el-icon-ls-2"></i>
       <span slot="title">WARNING</span>
     </el-menu-item>
     <el-menu-item index="4" :route="{ name: 'Home', query: { fileType: 4 } }">
-      <i class="el-icon-error"></i>
+      <i class="el-icon-ls-cuowu1"></i>
       <span slot="title">ERROR</span>
     </el-menu-item>
     <el-menu-item index="5" :route="{ name: 'Home', query: { fileType: 5 } }">
-      <i class="el-icon-question"></i>
+      <i class="el-icon-ls-yanzhonggaojing"></i>
       <span slot="title">CRITICAL</span>
     </el-menu-item>
   </el-menu>
